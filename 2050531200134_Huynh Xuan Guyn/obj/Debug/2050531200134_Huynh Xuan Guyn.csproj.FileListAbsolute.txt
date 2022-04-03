@@ -1,0 +1,8 @@
+C:\Users\GuynIT\Desktop\baitapc#\2050531200134_Huynh Xuan Guyn\obj\Debug\2050531200134_Huynh Xuan Guyn.csproj.AssemblyReference.cache
+C:\Users\GuynIT\Desktop\baitapc#\2050531200134_Huynh Xuan Guyn\obj\Debug\2050531200134_Huynh Xuan Guyn.csproj.SuggestedBindingRedirects.cache
+C:\Users\GuynIT\Desktop\baitapc#\2050531200134_Huynh Xuan Guyn\obj\Debug\2050531200134_Huynh Xuan Guyn.csproj.CoreCompileInputs.cache
+C:\Users\GuynIT\Desktop\baitapc#\2050531200134_Huynh Xuan Guyn\bin\Debug\2050531200134_Huynh Xuan Guyn.exe.config
+C:\Users\GuynIT\Desktop\baitapc#\2050531200134_Huynh Xuan Guyn\bin\Debug\2050531200134_Huynh Xuan Guyn.exe
+C:\Users\GuynIT\Desktop\baitapc#\2050531200134_Huynh Xuan Guyn\bin\Debug\2050531200134_Huynh Xuan Guyn.pdb
+C:\Users\GuynIT\Desktop\baitapc#\2050531200134_Huynh Xuan Guyn\obj\Debug\2050531200134_Huynh Xuan Guyn.exe
+C:\Users\GuynIT\Desktop\baitapc#\2050531200134_Huynh Xuan Guyn\obj\Debug\2050531200134_Huynh Xuan Guyn.pdb
