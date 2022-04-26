@@ -86,6 +86,7 @@ namespace BTDiemDanh_26_4
         public override void AnimalSound67()
         {
             Console.WriteLine("Bò kêu ummuu bò.");
+            
         }
     }
 }
