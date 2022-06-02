@@ -6,3 +6,9 @@ C:\Users\GuynIT\Desktop\baitapc#\2050531200134_Huynh Xuan Guyn\bin\Debug\2050531
 C:\Users\GuynIT\Desktop\baitapc#\2050531200134_Huynh Xuan Guyn\bin\Debug\2050531200134_Huynh Xuan Guyn.pdb
 C:\Users\GuynIT\Desktop\baitapc#\2050531200134_Huynh Xuan Guyn\obj\Debug\2050531200134_Huynh Xuan Guyn.exe
 C:\Users\GuynIT\Desktop\baitapc#\2050531200134_Huynh Xuan Guyn\obj\Debug\2050531200134_Huynh Xuan Guyn.pdb
+D:\Visual Studio\2050531200134_Huynh Xuan Guyn\bin\Debug\2050531200134_Huynh Xuan Guyn.exe.config
+D:\Visual Studio\2050531200134_Huynh Xuan Guyn\obj\Debug\2050531200134_Huynh Xuan Guyn.exe
+D:\Visual Studio\2050531200134_Huynh Xuan Guyn\obj\Debug\2050531200134_Huynh Xuan Guyn.pdb
+D:\Visual Studio\2050531200134_Huynh Xuan Guyn\bin\Debug\2050531200134_Huynh Xuan Guyn.exe
+D:\Visual Studio\2050531200134_Huynh Xuan Guyn\bin\Debug\2050531200134_Huynh Xuan Guyn.pdb
+D:\Visual Studio\2050531200134_Huynh Xuan Guyn\obj\Debug\2050531200134_Huynh Xuan Guyn.csprojResolveAssemblyReference.cache
